@@ -9,7 +9,7 @@
 - 📫 Let's connect!
 
 * Email: saputraa.sp.20@gmail.com
-* LinkedIn: [Saputra](https://www.linkedin.com/in/saputra-csda)
+* LinkedIn: [Saputra] (https://www.linkedin.com/in/saputra-csda)
 
 If you have any data-related questions or just want to chat, don't hesitate to ping me! 
 
